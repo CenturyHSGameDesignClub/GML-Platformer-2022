@@ -1,9 +1,11 @@
 {
   "resources": [
     {"id":{"name":"oLighting","path":"objects/oLighting/oLighting.yy",},"order":5,},
+    {"id":{"name":"oTorch","path":"objects/oTorch/oTorch.yy",},"order":6,},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":1,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":3,},
     {"id":{"name":"sLight","path":"sprites/sLight/sLight.yy",},"order":6,},
+    {"id":{"name":"sTorch","path":"sprites/sTorch/sTorch.yy",},"order":7,},
     {"id":{"name":"sPlayerIdle","path":"sprites/sPlayerIdle/sPlayerIdle.yy",},"order":1,},
     {"id":{"name":"sPlayerRunning","path":"sprites/sPlayerRunning/sPlayerRunning.yy",},"order":3,},
     {"id":{"name":"sPlayerJumping","path":"sprites/sPlayerJumping/sPlayerJumping.yy",},"order":5,},
